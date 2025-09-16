@@ -1,9 +1,9 @@
                   Journal
 
 <ol>
-  <li>Repository: A storage location for digital files.</li>
-</ol>
-GIT: An organized storage system like google drive.
+  <li>Repository: A storage location for digital files.
+    
+    GIT: An organized storage system like google drive.
 
 Github: is an internet based storage/hosting service
 
@@ -18,3 +18,6 @@ IDE: An application that bundle programming tools together.
 VS code: an editor to edit and write code.
 
 Abstraction: It is a command always running to make things simpler and easy to understand.
+
+  </li>
+</ol>
