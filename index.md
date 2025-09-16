@@ -1,4 +1,4 @@
-<h1>text-align="center"</Journal></h1>
+
 
 # Journal
 Repository: A storage location for digital files.
