@@ -1,6 +1,5 @@
+    <h1 align="center"># **Journal**</h1>
 
-
-# **Journal**
 Repository: A storage location for digital files.
 
 GIT: An organized storage system like google drive.
