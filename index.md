@@ -1,7 +1,8 @@
                   Journal
 
-Repository: A storage location for digital files.
-
+<ol>
+  <li>Repository: A storage location for digital files.</li>
+</ol>
 GIT: An organized storage system like google drive.
 
 Github: is an internet based storage/hosting service
