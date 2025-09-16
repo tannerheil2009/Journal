@@ -1,4 +1,4 @@
-                  **Journal**
+                  Journal
 
 Repository: A storage location for digital files.
 
